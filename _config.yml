@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cold Shaker's CTF Blog
+title: Michael Ball's CTF Blog
+alt_title: Mike's Writeups
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The purpose of this site is to catalog Michael Ball's (aka Cold Shaker's) CTF writeups 
-baseurl: "Cold-Shaker-CTF-Blog" # the subpath of your site, e.g. /blog
+baseurl: "/Cold-Shaker-CTF-Blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
