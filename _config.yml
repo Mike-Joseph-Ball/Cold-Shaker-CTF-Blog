@@ -20,7 +20,7 @@
 list_title: Writeups
 title: Michael Ball's CTF Blog
 alt_title: Mike's Writeups
-email: your-email@example.com
+email: michaelball357@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The purpose of this site is to catalog Michael Ball's (aka Cold Shaker's) CTF writeups 
 baseurl: "/Cold-Shaker-CTF-Blog" # the subpath of your site, e.g. /blog

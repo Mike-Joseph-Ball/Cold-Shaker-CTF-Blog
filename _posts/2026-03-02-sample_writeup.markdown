@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sample Writeup"
 date:   2026-03-02 21:22:23 -0800
 categories: jekyll update
 ---
