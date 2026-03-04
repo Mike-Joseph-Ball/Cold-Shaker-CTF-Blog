@@ -23,7 +23,7 @@ alt_title: Mike's Writeups
 email: michaelball357@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The purpose of this site is to catalog Michael Ball's (aka Cold Shaker's) CTF writeups 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: michael-joseph-ball
 github_username:  mike-joseph-ball
