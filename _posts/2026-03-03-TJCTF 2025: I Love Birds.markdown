@@ -1,9 +1,18 @@
-##### pwn challenge
-Required Tools: 
-- checksec
-- gdb debugger
-- Linux operating system or Windows Subsystem for Linux (WSL)
-- pwntools
+## I Love Birds
+
+**Category:** Pwn  
+**Challenge Type:** Binary Exploitation via Buffer Overflow 
+
+### Resources Provided
+- `birds.c`
+
+Download the full challenge package:
+[birds.c and solution script](/assets/challenges/TJCTF%202025/I%20Love%20Birds/I-love-birds-challenge-file-and-solution.zip)
+
+### Tools Used:
+[`checksec`](https://github.com/slimm609/checksec){:.tooltip target="_blank" title="Shows binary protections"}
+[`gdb`](https://sourceware.org/gdb/){:.tooltip title="GNU debugger"}
+
 
 For this challenge, all that we need to do is find the distance between the buffer, the canary, and the return address at the end of main. After that, we just need to understand pwntools, how stack memory works, and how assembly works, and we can write a quick exploit script in python to get shell access to the remote server and print the flag.
 

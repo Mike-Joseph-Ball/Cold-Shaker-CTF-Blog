@@ -1,0 +1,9 @@
+/* Simple tooltip styling */
+.tooltip {
+  cursor: pointer;
+}
+
+/* Optional: color change on hover */
+.tooltip:hover {
+  transform: scale(1.05);
+}
